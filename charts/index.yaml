@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8sdemo:
+  - apiVersion: v2
+    appVersion: "0.3"
+    created: "2022-07-07T14:19:33.835511+05:30"
+    description: K8sDemo App Helm chart prepared by Sourish
+    digest: bc10b761d3b1220bf58fed404c1d3d030e92bf8aff38306fdc7559e6a192e6f5
+    name: k8sdemo
+    type: application
+    urls:
+    - k8sdemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-07T14:19:33.835005+05:30"
